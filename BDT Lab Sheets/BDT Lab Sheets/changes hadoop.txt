@@ -1,0 +1,3 @@
+if mkdir is not created then u need to turn of safe mode
+
+hadoop dfsadmin  -safemode leave
